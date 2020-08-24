@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+
+This is my professional github account for @discovery-ltd
 
 <!--
 **jordy-vitality/jordy-vitality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
